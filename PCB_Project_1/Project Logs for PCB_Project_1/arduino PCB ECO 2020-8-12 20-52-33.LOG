@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=KEY1-1
+Added Pin To Net: NetName=GND Pin=KEY1-3
+Added Member To Class: ClassName=arduino Member=Component USB1 micro-USB
+Added Room: Name=arduino
