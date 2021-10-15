@@ -1,7 +1,0 @@
-Added Component: Designator=USB2(micro-usb)
-Added Pin To Net: NetName=NetPT1_1 Pin=USB2-1
-Added Pin To Net: NetName=NetU1_6 Pin=USB2-2
-Added Pin To Net: NetName=NetU1_5 Pin=USB2-3
-Added Pin To Net: NetName=GND Pin=USB2-5
-Added Member To Class: ClassName=arduino Member=Component USB2 micro-USB
-Added Room: Name=arduino
